@@ -3,6 +3,9 @@
 This repository contains guidelines/rules for an AI-powered code assistant.
 
 ## Repository Structure
+### Python
+
+- [Python Development Guidelines](Python/python.md) - Core principles and coding standards
 
 ### FastAPI
 - [FastAPI Development Guidelines](Fast%20API/Merged/fast-api.md) - Core principles and coding standards
