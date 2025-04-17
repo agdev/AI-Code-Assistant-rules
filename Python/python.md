@@ -1,3 +1,9 @@
+---
+description: When adding,editing, designing python code
+globs: 
+alwaysApply: false
+---
+
 # Python Development AI Code Assistant Guidelines
 
 ## Core Expertise
