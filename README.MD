@@ -39,4 +39,4 @@ To contribute to these guidelines:
 
 ## License
 
-[Specify your license here]
+MIT
